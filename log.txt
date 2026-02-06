@@ -1,0 +1,2 @@
+[info] 'useMaterial3' is deprecated and shouldn't be used. Use a ThemeData constructor (.from, .light, or .dark) instead. These constructors all have a useMaterial3 argument, and they set appropriate default values based on its value. See the useMaterial3 API documentation for full details. This feature was deprecated after v3.13.0-0.2.pre (/home/deepanshuk_k/Documents/Deepanshu/Andriod/shoppinglist_app/lib/main.dart:18:9)
+[error] The name 'NewItem' isn't a class (/home/deepanshuk_k/Documents/Deepanshu/Andriod/shoppinglist_app/lib/widgets/grocery_list.dart:15:73)
